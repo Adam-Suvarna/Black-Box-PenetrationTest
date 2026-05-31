@@ -243,7 +243,7 @@ system compromise.
 ## Repository Structure
 
 ```
-web-application-pentest-report/
+Black-Box-PenetrationTest/
 |
 +-- README.md
 +-- report/
