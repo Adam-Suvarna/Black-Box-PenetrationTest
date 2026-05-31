@@ -255,5 +255,7 @@ web-application-pentest-report/
 ---
 
 Module: KH5037CEM | Coventry University
+
 *Tools: Nmap, Gobuster, Nikto, Hydra, Metasploit, BurpSuite, exiftool, strings, curl*
+
 P.S. I am not allowed to share both server and client as I have no permission to do so
