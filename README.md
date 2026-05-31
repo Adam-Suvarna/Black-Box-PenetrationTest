@@ -1,4 +1,4 @@
-# Web Application Penetration Test - NBN Server
+# Black Box Penetration Test
 
 This was a black-box penetration test conducted on a simulated client
 environment as part of university coursework. The target was a web server
